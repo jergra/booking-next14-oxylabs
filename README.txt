@@ -9,5 +9,5 @@ from tutorial:
     by Sonny Sangha
 
 deployed:
-    
+    https://booking-next14-oxylabs.vercel.app
 
